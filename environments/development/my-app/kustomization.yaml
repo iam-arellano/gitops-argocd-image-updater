@@ -6,6 +6,6 @@ replicas:
 
 images:
   - name: dmancloud/complete-prodcution-e2e-github-actions
-    newTag: main-5a3e9af
+    newTag: v0.1.0
 resources:
   - ../../../my-app-base
