@@ -8,4 +8,4 @@ images:
   - name: dmancloud/complete-prodcution-e2e-github-actions
     newTag: main-5a3e9af
 resources:
-  - ../../../complete-prodcution-e2e-pipeline-github-actions
+  - ../../../my-app-base
